@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.3.0",
+    "@google-cloud/storage": "^7.0.0",
+    "dotenv": "^16.3.1",
+    "ftp": "^0.3.10"
+  }
+}

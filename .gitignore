@@ -1,0 +1,78 @@
+# Dependencias y módulos de Node.js
+node_modules/
+
+# Archivos generados por el entorno de desarrollo
+*.log
+*.log.*
+*.pid
+*.seed
+*.pid.lock
+lib-cov
+coverage/
+*.nyc_output
+.nyc_output/
+/.node_repl_history
+app/tests/testdata
+test/*/test-db
+tmp/
+npm-debug.log
+yarn-error.log
+yarn-debug.log*
+
+# Archivos de configuración locales
+.env
+
+# Archivos de configuración de IDEs y editores
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Archivos de construcción
+dist/
+build/
+out/
+
+# Dependencias específicas del sistema
+.DS_Store
+Thumbs.db
+
+# Otros archivos y directorios generados
+*.swp
+*.swo
+*.zip
+*.tgz
+*.tar.gz
+*.rar
+*.gz
+*.xlsx
+*.pdf
+*.pptx
+*.docx
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.woff
+*.woff2
+*.eot
+*.ttf
+*.svg
+
+# Archivos de caché y compilación
+.cache/
+.pnp/
+.pnp.js
+*.pnp.*
+*.js.map
+*.css.map
+*.css.d.ts
+*.tsbuildinfo
+*.i18n.json
+*.snap
+*.log
+*.log.*
+*.d.ts
+*.build
+
+#gcp file
+storage_account.json
